@@ -18,7 +18,8 @@ This repo provides a small, focused script that:
 - 🔌 Uses standard serial over USB (via pySerial)  
 - ⌨️ Interactive: type lines on the PC, hub receives them via `sys.stdin`  
 - 🔔 Hub beeps for each received line and prints an ACK  
-- 🧪 Minimal, readable code — easy to customize for your own projects  
+- 🧪 Minimal, readable code — easy to customize for your own projects
+- ⚙️ This communication method is compatible with Raspberry Pi, Jetson Nano and PC.
 
 ---
 
